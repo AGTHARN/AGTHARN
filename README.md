@@ -1,13 +1,1 @@
-![halloffame](https://media.discordapp.net/attachments/489366022172966922/919560351329185822/png_20211212_200418_0000.png)
-
-![quote](https://media.discordapp.net/attachments/489366022172966922/919562138270461962/png_20211212_201125_0000.png?height=50&width=50)\
-"anything can be fixed"\
-~ ***AGTHARN (AGTHARN)***
-
-![quote](https://media.discordapp.net/attachments/489366022172966922/919562138270461962/png_20211212_201125_0000.png?height=50&width=50)\
-"var_dump dumps the var, for the var to be dumped it has to be dumped, dump the var dumped, dump, duh"\
-~ ***wrathxz (R1SKTAK3R)***
-
-\
-\
-__*are you on the hall of fame and wish to be removed? open an issue*__
+[![yessir](https://user-images.githubusercontent.com/63234276/179379484-129f314b-fe96-4420-aa9c-dc5ab22f164c.png)](https://github.com/MagicGames-Network)
