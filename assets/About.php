@@ -15,8 +15,9 @@ class About extends Me
                 'listening to music',
                 'playing video games',
                 'reading',
-                'watching TV',
-                'playing badminton'
+                'watching movies',
+                'playing badminton',
+                'coding for fun'
             ]
         ];
     }
