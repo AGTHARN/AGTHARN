@@ -1,1 +1,1 @@
-[![YESSIR](https://user-images.githubusercontent.com/63234276/179482435-500d674b-12c3-4746-bc5a-135047124752.png)](https://github.com/MagicGames-Network)
+[![yessir](https://user-images.githubusercontent.com/63234276/179723256-42c64212-8d3d-43ef-b668-c38b91ecc7ad.png)](https://github.com/MagicGames-Network)
